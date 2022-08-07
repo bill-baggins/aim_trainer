@@ -1,0 +1,7 @@
+Some things to add:
+    1) increasing difficulty for every 10 points. Target will decrease by a size of 5px each time.
+    2) Have actual textures for the background and the target itself.
+    3) Have defined stages.
+    4) Add a menu.
+    5) Give multiple game modes through the option menu.
+        a) Increasing number of targets, goes up to a specific limit. When it hits that limit it is game over.
